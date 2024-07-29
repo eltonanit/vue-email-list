@@ -1,6 +1,6 @@
-const { cretaApp } = Vue;
+const { createApp } = Vue;
 
-cretaApp({
+createApp({
     data() {
         return {
             emails: null
